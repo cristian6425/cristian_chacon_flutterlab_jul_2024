@@ -25,3 +25,16 @@ Se plantea una aplicación que carga 10.000 datos de la colección `slowData` de
 2. Agregar las mediciones del paso 1 y 5 al archivo `README.md`.
    
 3. Una vez finalizada la prueba, agregar a albertodelviejo@flutterlabapps.com al repo.
+
+Mediciones en rama `main`:
+1 - 2865 ms
+2 - 2346 ms
+3 - 2306 ms
+4 - 2294 ms
+
+Mediciones en rama `develop`:
+
+1 - 1432 ms
+2 - 519 ms
+3 - 832 ms
+4 - 532 ms
